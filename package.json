@@ -1,4 +1,5 @@
- "name": "com.kizhu.placetool",
+ {
+"name": "com.kizhu.placetool",
   "version": "1.0.0",
   "displayName": "Place Tool",
   "description": "Tool that allows you to place objects fast on scene view",
@@ -6,3 +7,5 @@
   "author": {
     "name": "Kirill Zhuravlev",
     "email": "zhuravleff.kirill2014@gmail.com"
+    }
+}
